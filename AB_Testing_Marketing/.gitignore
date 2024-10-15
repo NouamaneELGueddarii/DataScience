@@ -1,0 +1,43 @@
+# Python related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/marketing_AB.csv
+
+# Logs
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Other
+reports/*.png  # If you want to exclude plots from being tracked
