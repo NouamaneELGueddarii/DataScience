@@ -1,6 +1,4 @@
 # Bayesian A/B Testing Project
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Table of Contents
 - [Overview](#overview)
