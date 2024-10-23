@@ -59,7 +59,7 @@ The following visualizations support the model evaluation and interpretation:
 ![feature importance](reports/feature_importance.png)
 
 #### Residual Analysis
-![residuals plot](reports/residuals_analysis.png)
+![residuals plot](reports/Residuals_analysis.png)
 
 
 ## Airflow Pipeline
